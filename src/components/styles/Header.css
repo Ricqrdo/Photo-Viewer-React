@@ -1,0 +1,17 @@
+.header__container {
+  width: 70%;
+  height: 70px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: solid #ff5833 2px;
+  background: rgba(255, 255, 255, 0.11);
+}
+
+.header-title {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Museomoderno", cursive;
+  font-size: 1.5rem;
+}
